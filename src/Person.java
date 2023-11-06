@@ -6,5 +6,3 @@ public class Person {
     public double boyi=178;
     public double vazni=82;
 }
-//192 367 0940
-
